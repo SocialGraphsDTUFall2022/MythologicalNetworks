@@ -1,0 +1,64 @@
+;Name;main-type;description;Wiki link;Reference
+0;Aegir|Ægir;god;Ruler of the sea;%C3%86gir;Aegir
+1;Baldr|Baldr;god;God of beauty, innocence, peace, and rebirth;Baldr;Baldr
+2;Borr|Borr;god;Father of Óðinn, Vili and Ve. Consort: Bestla;Borr;Borr
+3;Bragi|Bragi;god;God of poetry music and the harp;Bragi;Bragi
+4;Buri|Búri;god;Ruler of Prehistory, the first god and father of Borr.;B%C3%BAri;Buri
+5;Dagr|Dagr;god;God of the daytime;Dagr;Dagr
+6;Dellingr|Dellingr;god;God of the dawn.;Dellingr;Dellingr
+7;Eir|Eir;god;Goddess of healing.;Eir;Eir
+8;Eostre|Ēostre;god;Goddess of sprin;%C4%92ostre;Eostre
+9;Elli|Elli ;god;Goddess of old age.;Elli;Elli
+10;Forseti|Forseti;god;God of justice, peace and truth;Forseti;Forseti
+11;Freyja|Freyja;god;Goddess of love, fertility, and battle;Freyja;Freyja
+12;Freyr|Freyr;god;God of fertility. ;Freyr;Freyr
+13;Frigg|Frigg;god;Goddess of marriage and motherhood.;Frigg;Frigg
+14;Fulla|Fulla;god;Frigg´s handmaid.;Fulla;Fulla
+15;Gefjon|Gefjon;god;Goddess of fertility and plough;Gefjon;Gefjon
+16;Gullveig|Gullveig;god;Goddess of Alchemy and Witchcraft;Gullveig;Gullveig
+17;Heimdall|Heimdall;god;One of the Æsir and guardian of Ásgarð, their realm.;Heimdall;Heimdall
+18;Hel|Hel;god;Queen of Helheim, the Norse underworld. Daughter of Loki;Hel_(mythological_being);Hel
+19;Hermod|Hermóðr;god;The heroic son of Odin.;Herm%C3%B3%C3%B0r;Hermod
+20;Holler|Holler;god;God of disease, destruction, and disaster;nan;Holler
+21;Hlin|Hlín ;god;Goddess of consolation and protection;Hl%C3%ADn;Hlin
+22;Hodur|Höðr;god;God of winter.;H%C3%B6%C3%B0r;Hodur
+23;Hoenir|Hœnir;god;God of Indecision, Avoidance and Mystery;H%C5%93nir;Hoenir
+24;Idun|Iðunn;god;Goddess of youth;I%C3%B0unn;Idun
+25;Jord|Jörð;god;Goddess of the Earth;J%C3%B6r%C3%B0;Jord
+26;Kvasir|Kvasir;god;God of inspiration;Kvasir;Kvasir
+27;Lofn|Lofn;god;Goddess of forbidden loves;Lofn;Lofn
+28;Loki|Loki;god;Trickster and god of mischief ;Loki;Loki
+29;Magni|Magni;god;god of bravery.Son of Thor;M%C3%B3%C3%B0i_and_Magni;Magni
+30;Modi|MóðI;god;god of strength.Son of Thor.;M%C3%B3%C3%B0i_and_Magni;Modi
+31;Mani|Máni;god;God of Moon.;M%C3%A1ni;Mani
+32;Mimir|Mímir;god;Óðinn´s uncle. ;M%C3%Admir;Mimir
+33;Nanna|Nanna;god;Goddess of joy and peace;Nanna_(Norse_deity);Nanna
+34;Nerthus|Nerthus;god;Goddess of Fertility, Harvest, Lakes, Sacred Waters and Revenge;Nerthus;Nerthus
+35;Njord|Njörðr;god;God of sea, wind, fish, and wealth;Nj%C3%B6r%C3%B0r;Njord
+36;Nott|Nótt;god;Goddess of night;N%C3%B3tt;Nott
+37;Odin|Óðinn;god;The """"All Father"""" God of war, associated to wisdom, poetry, and magic ;Odin;Odin
+38;Odur|Óðr;god;God of summer sun;%C3%93%C3%B0r;Odur
+39;Ran|Rán;god;Goddess of the sea;R%C3%A1n;Ran
+40;Saga|Sága;god;Goddess of wisdom;S%C3%A1ga_and_S%C3%B6kkvabekkr;Saga
+41;Sif|Sif;god;Goddess of harvest;Sif;Sif
+42;Sigyn|Sigyn;god;Goddess of fidelity;Sigyn;Sigyn
+43;Sjofn|Sjöfn ;god;Goddess of love.;Sj%C3%B6fn;Sjofn
+44;Skadi|SkaðI;god;Goddess of winter;Ska%C3%B0i;Skadi
+45;Snotra|Snotra;god;Goddess of prudence;Snotra;Snotra
+46;Sol|Sól;god,Goddess of Sun;S%C3%B3l_(Germanic_mythology);Sol
+47;Thor|Thor;god;son of Óðinn God of thunder and battle;Thor;Thor
+48;Thrud|Þrúðr;god;daughter of Thor and Sif;%C3%9Er%C3%BA%C3%B0r;Thrud
+49;Tyr|Týr;god;God of war. Also the god of the skies.;T%C3%BDr;Tyr
+50;Ullr|Ullr;god;God of Glory, Hunting and Skiing;Ullr;Ullr
+51;Vali|Váli;god;God of revenge;V%C3%A1li;Vali
+52;Var|Vár;god;Goddess of contract;V%C3%A1r;Var
+53;Vidar|Víðarr;god;God of the forest, revenge and silence;V%C3%AD%C3%B0arr;Vidar
+54;Ve|Vé;god;One of the three gods of creation;Vili_and_V%C3%A9;Ve
+55;Vor|Vör;god;Goddess of wisdom;V%C3%B6r;Vor
+56;Yggdrasil|Yggdrasil;god;Goddess of life. ;Yggdrasil;Yggdrasil
+57;Andhirmnir|Andhrímnir ;god;Cook of the gods;Andhr%C3%Admnir;Andhirmnir
+58;Fjölnir|Fjölnir;god;The half-Vanir & half-Jotnar son of Frey and Gerd;Fj%C3%B6lnir;Fjölnir
+59;Lytir|Lýtir;god;A god associated with fertility;L%C3%Bdtir;Lytir
+60;Byggvir|Byggvir;god;God of barley. ;Byggvir;Byggvir
+61;Audhumbla|Auðumbla;god;Goddess of life ;Au%C3%B0umbla;Audhumbla
+62;Lofn|Lofn;god;Goddess of arranged marriages;Lofn;Lofn
