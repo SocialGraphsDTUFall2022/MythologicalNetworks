@@ -1,5 +1,7 @@
 # Mythological Networks
 
+
+
 The current repository contains supporting files for the Mythological Networks Project:
 
 1. The Explainer Notebook.
@@ -13,6 +15,8 @@ The current repository contains supporting files for the Mythological Networks P
 5. The reference .csv files used for constructing the Wikipedia network.
 
 6. Images used as masks for word clouds.
+
+
 
 Creators:
 
