@@ -2,13 +2,20 @@
 
 The current repository contains supporting files for the Mythological Networks Project:
 
-the wiki texts of all character pages.
-the full directed network as an edge-list.
-the full directed network in the pickle format.
-code snippets demonstrating how exactly we extracted the data from Wikipedia pages, constructed the network, and attached the attribute 'length of the content' to the nodes.
+1. The Explainer Notebook.
+
+2. The Wikipedia network (edge list and pickle).
+
+3. The Twitter network (edge list and pickle).
+
+4. Google Trends data (one-week and all-time).
+
+5. The reference .csv files used for constructing the Wikipedia network.
+
+6. Images used as masks for word clouds.
 
 Creators:
 
-s225404
-s225500
-s222424
+- s225404
+- s225500
+- s222424
