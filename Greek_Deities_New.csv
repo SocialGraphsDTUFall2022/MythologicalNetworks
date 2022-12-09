@@ -1,0 +1,428 @@
+,Name,name-greek,main-type,sub-type,description,Wiki link,Reference
+0,Aphrodite,Ἀφροδίτη,god,olympian,"goddess of beauty, love, desire, and pleasure",Aphrodite,Aphrodite
+1,Apollo,Ἀπόλλων,god,olympian,"god of music, arts, knowledge, healing, plague, prophecy, poetry, manly beauty, and archery",Apollo,Apollo
+2,Ares,Ἄρης,god,olympian,"god of courage, war, bloodshed, and violence",Ares,Ares
+3,Artemis,Ἄρτεμις,god,olympian,"virgin goddess of the hunt, wilderness, animals, the moon and young girls",Artemis,Artemis
+4,Athena,Ἀθηνᾶ,god,olympian,"goddess of reason, wisdom, intelligence, skill, peace, warfare, battle strategy, and handicrafts",Athena,Athena
+5,Demeter,Δημήτηρ,god,olympian,"goddess of grain, agriculture, harvest, growth, and nourishment",Demeter,Demeter
+6,Dionysus,Διόνυσος,god,olympian,"god of wine, fruitfulness, parties, festivals, madness, chaos, drunkenness, vegetation, ecstasy, and the theater",Dionysus,Dionysus
+7,Hades,ᾍδης,god,olympian,god and king of the underworld and the dead,Hades,Hades
+8,Hephaestus,Ἥφαιστος,god,olympian,"god of fire, metalworking, and crafts",Hephaestus,Hephaestus
+9,Hera,Ἥρα,god,olympian,"queen of the gods, and goddess of marriage, women, childbirth, heirs, kings, and empires",Hera,Hera
+10,Hermes,Ἑρμῆς,god,olympian,"god of boundaries, travel, communication, trade, language, thieves and writing",Hermes,Hermes
+11,Hestia,Ἑστία,god,olympian,"virgin goddess of the hearth, home, and chastity",Hestia,Hestia
+12,Poseidon,Ποσειδῶν,god,olympian,"god of the sea, rivers, floods, droughts, and earthquakes",Poseidon,Poseidon
+13,Zeus,Ζεύς,god,olympian,"king of the gods, ruler of mount olympus, and god of the sky, weather, thunder, lightning, law, order, and justice",Zeus,Zeus
+14,Achlys,Ἀχλύς,god,primordial," goddess of poisons, and the personification of misery and sadness",Achlys,Achlys
+15,Aether,Αἰθήρ,god,primordial, god of light and the upper atmosphere,Aether_(mythology),Aether
+16,Aion,Αἰών,god,primordial," god of eternity, personifying cyclical and unbounded time",Aion_(deity),Aion
+17,Ananke,Ἀνάγκη,god,primordial," goddess of inevitability, compulsion, and necessity",Ananke,Ananke
+18,Chaos,Χάος,god,primordial, personification of nothingness from which all of existence sprang,Chaos_(cosmogony),Chaos
+19,Chronos,Χρόνος,god,primordial," god of empirical time, sometimes equated with aion",Chronos,Chronos
+20,Erebus,Ἔρεβος,god,primordial, god of darkness and shadow,Erebus,Erebus
+21,Eros,Ἔρως,god,primordial, god of love and attraction,Eros,Eros
+22,Gaia,Γαῖα,god,primordial,personification of the earth (mother earth); mother of the titans,Gaia,Gaia
+23,Hemera,Ἡμέρα,god,primordial, goddess of day,Hemera,Hemera
+24,Hypnos,Ὕπνος,god,primordial,god of sleep,Hypnos,Hypnos
+25,Nemesis,Νέμεσις,god,primordial, goddess of retribution,Nemesis,Nemesis
+26,Nesoi,Νῆσοι,god,primordial, goddesses of islands,Nesoi,Nesoi
+27,Nyx,Νύξ,god,primordial, goddess of night,Nyx,Nyx
+28,Ourea,Οὔρεα,god,primordial, gods of mountains,Ourea,Ourea
+29,Phanes,Φάνης,god,primordial, god of procreation in the orphic tradition,Phanes,Phanes
+30,Pontus,Πόντος,god,primordial," god of the sea, father of the fish and other sea creatures",Pontus_(mythology),Pontus
+31,Tartarus,Τάρταρος,god,primordial," god of the deepest, darkest part of the underworld, the tartarean pit (which is also referred to as tartarus itself)",Tartarus,Tartarus
+32,Thalassa,Θάλασσα,god,primordial,personification of the sea and consort of pontus,Thalassa,Thalassa
+33,Thanatos,Θάνατος,god,primordial,god of death,Thanatos,Thanatos
+34,Uranus,Οὐρανός,god,primordial, god of the heavens (father sky); father of the titans,Uranus_(mythology),Uranus
+35,Coeus,Κοῖος,titan,twelve titan,titan of intellect and the axis of heaven around which the constellations revolved,Coeus,Coeus
+36,Crius,Κρεῖος,titan,twelve titan," least individualized of the twelve titans, he is the father of astraeus, pallas, and perses",Crius,Crius
+37,Cronus,Κρόνος,titan,twelve titan,titan of harvests and personification of destructive time,Cronus,Cronus
+38,Hyperion,Ὑπερίων,titan,twelve titan,titan of light,Hyperion_(Titan),Hyperion
+39,Iapetus,Ἰαπετός,titan,twelve titan,"titan of mortality and father of prometheus, epimetheus, menoetius, and atlas",Iapetus,Iapetus
+40,Mnemosyne,Mνημοσύνη,titan,twelve titan,"titaness of memory and remembrance, and mother of the nine muses",Mnemosyne,Mnemosyne
+41,Oceanus,Ὠκεανός,titan,twelve titan,"titan of the all-encircling river oceans around the earth, the fount of all the earths fresh-water",Oceanus,Oceanus
+42,Phoebe,Φοίβη,titan,twelve titan,"titaness of the bright intellect and prophecy, and consort of koios",Phoebe_(Titaness),Phoebe
+43,Rhea,Ῥέα,titan,twelve titan,"titaness of fertility, motherhood and the mountain wilds",Rhea_(mythology),Rhea
+44,Tethys,Τηθύς,titan,twelve titan,"titaness of fresh-water, and the mother of the rivers, springs, streams, fountains, and clouds",Tethys_(mythology),Tethys
+45,Theia,Θεία,titan,twelve titan,titaness of sight and the shining light of the clear blue sky,Theia,Theia
+46,Themis,Θέμις,titan,twelve titan,titaness of divine law and order,Themis,Themis
+47,Asteria,Ἀστερία,titan,other titan,titaness of nocturnal oracles and falling stars,Asteria_(mythology),Asteria
+48,Astraeus,Ἀστραῖος,titan,other titan,"titan of dusk, stars, and planets, and the art of astrology",Astraeus,Astraeus
+49,Atlas,Ἄτλας,titan,other titan,titan forced to carry the heavens upon his shoulders by zeus,Atlas_(mythology),Atlas
+50,Dione,Διώνη,titan,other titan,titaness of the oracle of dodona,Dione_(Titaness),Dione
+51,Helios,Ἥλιος,titan,other titan,titan of the sun and guardian of oaths,Helios,Helios
+52,Selene,Σελήνη,titan,other titan,titaness of the moon,Selene,Selene
+53,Eos,Ἠώς,titan,other titan,titaness of the dawn,Eos,Eos
+54,Epimetheus,Ἐπιμηθεύς,titan,other titan,titan of afterthought and the father of excuses,Epimetheus,Epimetheus
+55,Lelantos,Λήλαντος,titan,other, titan father of the nymph aura,Lelantos,Lelantos
+56,Leto,Λητώ,titan,other titan,"titaness of motherhood and mother of the twin olympians, artemis and apollo",Leto,Leto
+57,Menoetius,Μενοίτιος,titan,other titan,"titan of violent anger, rash action, and human mortality",Menoetius,Menoetius
+58,Metis,Μῆτις,titan,other titan,"titaness of good counsel, advice, planning, cunning, craftiness, and wisdom",Metis_(mythology),Metis
+59,Pallas,Πάλλας,titan,other titan,titan of warcraft,Pallas_(Titan),Pallas
+60,Perses,Πέρσης,titan,other titan,titan of destruction,Perses_(Titan),Perses
+61,Prometheus,Προμηθεύς,titan,other titan,"titan of forethought and crafty counsel, and creator of mankind",Prometheus,Prometheus
+62,Styx,Στύξ,titan,other titan,titaness of the underworld river styx and personification of hatred,Styx,Styx
+63,Adephagia,Ἀδηφαγία,personification,personification,spirit of satiety and gluttony,Adephagia,Adephagia
+64,Adikia,Ἀδικία,personification,personification,spirit of injustice and wrongdoing,Adikia,Adikia
+65,Aergia,Ἀεργία,personification,personification,"spirit of idleness, laziness, indolence and sloth",Aergia,Aergia
+66,Agathodaemon,Ἀγαθοδαίμων,personification,personification,spirit  of the vineyards and grainfields,Agathodaemon,Agathodaemon
+67,Agon,Ἀγών,personification,personification,"spirit of contest, who possessed an altar at olympia, site of the olympic games",Agon,Agon
+68,Aidos,Αἰδώς,personification,personification,"spirit of modesty, reverence and respect",Aidos,Aidos
+69,Aisa,Αἴσα,personification,personification,personification of lot and fate,Atropos,Aisa
+70,Alala,Ἀλαλά,personification,personification,spirit of the war cry,Alala,Alala
+71,Alastor,Ἀλάστωρ,personification,personification,spirit of blood feuds and vengeance,Alastor,Alastor
+72,Aletheia,Ἀλήθεια,personification,personification,"spirit of truth, truthfulness and sincerity",Althaea_(mythology),Aletheia
+73,Achos,Ἄχος,personification,personification,spirit of trouble and distress (algea; ἄλγεα),Achaeus_(mythology),Achos
+74,Ania,Ἀνία,personification,personification,spirit of ache and anguish (algea; ἄλγεα),Algos,Ania
+75,Lupe,Λύπη,personification,personification,"spirit of pain, grief, and sadness (algea; ἄλγεα)",Algos,Lupe
+76,Alke,Ἀλκή,personification,personification,spirit of prowess and courage (one of the machai),Alke,Alke
+77,Amechania,Ἀμηχανία,personification,personification,spirit of helplessness and want of means,Amechania,Amechania
+78,The Amphilogiai,Ἀμφιλογίαι,personification,personification,"spirits of disputes, debate, and contention",Amphillogiai,The Amphilogiai
+79,Anaideia,Ἀναίδεια,personification,personification,"spirit of ruthlessness, shamelessness, and unforgivingness",Anaideia,Anaideia
+80,The Androktasiai,Ἀνδροκτασίαι,personification,personification,spirits of battlefield slaughter,Androktasiai,The Androktasiai
+81,Angelia,Ἀγγελία,personification,personification,"spirit of messages, tidings and proclamations",Angelia,Angelia
+82,Apate,Ἀπάτη,personification,personification,"spirit of deceit, guile, fraud and deception",Apate,Apate
+83,Apheleia,Ἀφέλεια,personification,personification,spirit of simplicity,Apheleia,Apheleia
+84,The Arae,Ἀραί,personification,personification,spirits of curses,Arae,The Arae
+85,Arete,Ἀρετή,personification,personification,"spirit of virtue, excellence, goodness, and valour",Arete,Arete
+86,Atë,Ἄτη,personification,personification,"spirit of delusion, infatuation, blind folly, recklessness, and ruin",At%C3%AB,Atë
+87,Bia,"Βία ""Violence""",personification,personification, personification of force and raw energy,Bia_(mythology),Bia
+88,Caerus,Καιρός,personification,personification,spirit of opportunity,Caerus,Caerus
+89,Corus,Κόρος,personification,personification,spirit of surfeit,Corus_(mythology),Corus
+90,Deimos,Δεῖμος,personification,personification,"spirit of fear, dread, and terror",Deimos_(deity),Deimos
+91,Dikaiosyne,Δικαιοσύνη,personification,personification,spirit of justice and righteousness,nan,Dikaiosyne
+92,Dike,Δίκη,personification,personification,"spirit of justice, fair judgement, and the rights established by custom and law",Dike_(mythology),Dike
+93,Dolos,Δόλος,personification,personification,"spirit of trickery, cunning deception, craftiness, treachery, and guile",Dolos_(mythology),Dolos
+94,Dysnomia,Δυσνομία,personification,personification,spirit of lawlessness and poor civil constitution,Dysnomia_(deity),Dysnomia
+95,Dyssebeia,Δυσσέβεια,personification,personification,spirit of impiety,Dyssebeia,Dyssebeia
+96,Eiresione,Ειρεσιώνη,personification,personification,personification of the olive branch,Eiresione,Eiresione
+97,Ekecheiria,Ἐκεχειρία,personification,personification,"spirit of truce, armistice, and the cessation of all hostilities; honoured at the olympic games",Ekecheiria,Ekecheiria
+98,Eleos,Ἔλεος,personification,personification,"spirit of mercy, pity, and compassion",Eleos,Eleos
+99,Elpis,Ἐλπίς,personification,personification,spirit of hope and expectation,Elpis_(mythology),Elpis
+100,Epiphron,Ἐπίφρων,personification,personification,"spirit of prudence, shrewdness, thoughtfulness, carefulness, and sagacity",Epiphron,Epiphron
+101,Eris,Ἔρις,personification,personification,"spirit of strife, discord, contention, and rivalry",Eris_(mythology),Eris
+102,Anteros,Ἀντέρως,personification,personification,god of requited love,Anteros,Anteros
+103,Hedylogos,Ἡδύλογος,personification,personification,god of sweet talk and flattery,Hedylogos,Hedylogos
+104,Himeros,Ἵμερος,personification,personification,god of sexual desire,Erotes#Himeros,Himeros
+105,Pothos,Πόθος,personification,personification,"god of sexual longing, yearning, and desire",Erotes#Pothos,Pothos
+106,Eucleia,Εὔκλεια,personification,personification,spirit of good repute and glory,Eucleia,Eucleia
+107,Eulabeia,Εὐλάβεια,personification,personification,"spirit of discretion, caution, and circumspection",Eulabeia_(mythology),Eulabeia
+108,Eupheme,Εὐφήμη,personification,personification,"spirit of words of good omen, acclamation, praise, applause, and shouts of triumph",Eupheme_(deity),Eupheme
+109,Eupraxia,Eὐπραξία,personification,personification,spirit of well-being,Eupraxia_(mythology),Eupraxia
+110,Eusebeia,Eὐσέβεια,personification,personification,"spirit of piety, loyalty, duty, and filial respect",Eusebeia,Eusebeia
+111,Euthenia,Εὐθενία,personification,personification,"spirit of prosperity, abundance, and plenty",Euthenia,Euthenia
+112,Gelos,Γέλως,personification,personification,spirit of laughter,Gelos_(mythology),Gelos
+113,Geras,Γῆρας,personification,personification,spirit of old age,Geras,Geras
+114,Harmonia,Ἁρμονία,personification,personification,goddess of harmony and concord,Harmonia,Harmonia
+115,Hedone,Ἡδονή,personification,personification,"spirit of pleasure, enjoyment, and delight",Hedone,Hedone
+116,Heimarmene,Εἵμαρμένη,personification,personification,personification of share destined by fate,Heimarmene,Heimarmene
+117,Homados,Ὅμαδος,personification,personification,spirit of the din of battle,Homados,Homados
+118,Homonoia,Ὁμόνοια,personification,personification,"spirit of concord, unanimity, and oneness of mind",Homonoia_(mythology),Homonoia
+119,Horkos,Ὅρκος,personification,personification,spirit of oaths,Horkos,Horkos
+120,Horme,Ὁρμή,personification,personification,"spirit of impulse or effort (to do a thing), eagerness, setting oneself in motion, and starting an action",Horme,Horme
+121,Hybris,Ὕβρις,personification,personification,spirit of outrageous behaviour,Hybris_(mythology),Hybris
+122,The Hysminai,Ὑσμῖναι,personification,personification,spirits of fighting and combat,Hysminai,The Hysminai
+123,Ioke,Ἰωκή,personification,personification,spirit of pursuit in battle,Ioke_(mythology),Ioke
+124,Kakia,Kακία,personification,personification,spirit of vice and moral badness,Kakia,Kakia
+125,The Keres,Κῆρες,personification,personification,spirits of violent or cruel death,Keres,The Keres
+126,Koalemos,Κοάλεμος,personification,personification,spirit of stupidity and foolishness,Koalemos,Koalemos
+127,Kratos,Κράτος,personification,personification,"spirit of strength, might, power, and sovereign rule",Kratos_(mythology),Kratos
+128,Kydoimos,Κυδοιμός,personification,personification,"spirit of the din of battle, confusion, uproar, and hubbub",Kydoimos,Kydoimos
+129,Lethe,Λήθη,personification,personification,"spirit of forgetfulness and oblivion, and of the river of the same name",Lethe,Lethe
+130,Limos,Λιμός,personification,personification,spirit of hunger and starvation,Limos,Limos
+131,The Litae,Λιταί,personification,personification,spirits of prayer,Litae,The Litae
+132,Lyssa,Λύσσα,personification,personification,"spirit of rage, fury and rabies in animals",Lyssa,Lyssa
+133,The Machai,Μάχαι,personification,personification,spirits of fighting and combat,Machai,The Machai
+134,Mania,Μανία,personification,personification,"spirit or spirits of madness, insanity, and frenzy",Maniae,Mania
+135,Clotho,Κλωθώ,personification,personification,spinner of the life thread (fates; μοίραι),Clotho,Clotho
+136,Lachesis,Λάχεσις,personification,personification,measurer of the life thread (fates; μοίραι),Lachesis,Lachesis
+137,Atropos,Άτροπος,personification,personification,severer of the life thread (fates; μοίραι),Atropos,Atropos
+138,Momus,Μῶμος,personification,personification,"spirit of mockery, blame, censure and stinging criticism",Momus,Momus
+139,Moros,Μόρος,personification,personification,spirit of doom,Moros,Moros
+140,The Neikea,τὰ Νείκη,personification,personification,"spirits of quarrels, feuds and grievances",Neikea,The Neikea
+141,Nike,Νίκη,personification,personification,goddess of victory,Nike_(mythology),Nike
+142,Nomos,Νόμος,personification,personification,spirit of law,Nomos_(mythology),Nomos
+143,Oizys,Ὀϊζύς,personification,personification,spirit of woe and misery,Oizys,Oizys
+144,The Oneiroi,Ὄνειροι,personification,personification,dreams,Oneiros,The Oneiroi
+145,Palioxis,Παλίωξις,personification,personification,"spirit of backrush, flight and retreat from battle",Palioxis,Palioxis
+146,Peitharchia,Πειθαρχία,personification,personification,spirit of discipline,Peitharchia,Peitharchia
+147,Peitho,Πειθώ,personification,personification,spirit of persuasion and seduction,Peitho,Peitho
+148,Penia,Πενία,personification,personification,spirit of poverty and need,Penia,Penia
+149,Penthus,Πένθος,personification,personification,"spirit of grief, mourning, and lamentation",Penthus,Penthus
+150,Pepromene,Πεπρωμένη,personification,personification,"personification of the destined share, similar to heimarmene",Pepromene,Pepromene
+151,Pheme,Φήμη,personification,personification,"spirit of rumour, report, and gossip",Pheme,Pheme
+152,Philophrosyne,Φιλοφροσύνη,personification,personification,"spirit of friendliness, kindness, and welcome",Philophrosyne,Philophrosyne
+153,Philotes,Φιλότης,personification,personification,"spirit of friendship, affection, and sexual intercourse",Philotes,Philotes
+154,Phobos,Φόβος,personification,personification,"spirit of panic fear, flight, and battlefield rout",Phobos_(mythology),Phobos
+155,The Phonoi,Φόνοι,personification,personification,"spirits of murder, killing, and slaughter",Phonoi,The Phonoi
+156,Phrike,Φρίκη,personification,personification,spirit of horror and trembling fear,Phrike,Phrike
+157,Phthonus,Φθόνος,personification,personification,spirit of envy and jealousy,Phthonus,Phthonus
+158,Pistis,Πίστις,personification,personification,"spirit of trust, honesty, and good faith",Pistis,Pistis
+159,Poine,Ποίνη,personification,personification,"spirit of retribution, vengeance, recompense, punishment, and penalty for the crime of murder and manslaughter",Poena,Poine
+160,Polemos,Πόλεμος,personification,personification,personification of war,Polemos,Polemos
+161,Ponos,Πόνος,personification,personification,spirit of hard labour and toil,Ponos,Ponos
+162,Poros,Πόρος,personification,personification,"spirit of expediency, the means of accomplishing or providing, contrivance and device",Porus_(mythology),Poros
+163,Praxidike,Πραξιδίκη,personification,personification,spirit of exacting justice,Praxidice,Praxidike
+164,Proioxis,Προίωξις,personification,personification,spirit of onrush and battlefield pursuit,Proioxis,Proioxis
+165,Prophasis,Πρόφασις,personification,personification,spirit of excuses and pleas,Prophasis,Prophasis
+166,Ptocheia,Πτωχεία,personification,personification,spirit of beggary,Ptocheia,Ptocheia
+167,Soter,Σωτήρ,personification,personification,"male spirit of safety, preservation, and deliverance from harm",Soter_(daimon),Soter
+168,Soteria,Σωτηρία,personification,personification,"female personification of safety, preservation, and deliverance from harm",Soteria_(mythology),Soteria
+169,Sophrosyne,Σωφροσύνη,personification,personification,"spirit of moderation, self-control, temperance, restraint, and discretion",Sophrosyne,Sophrosyne
+170,Thrasos,Θράσος,personification,personification,spirit of boldness,Thrasos,Thrasos
+171,Tyche,Τύχη,personification,personification,"goddess of fortune, chance, providence, and fate",Tyche,Tyche
+172,Zelos,Ζῆλος,personification,personification,"spirit of eager rivalry, emulation, envy, jealousy, and zeal",Zelus,Zelos
+173,Amphiaraus,Ἀμφιάραος,god,chthonic," seer, and one of the seven against thebes who became an oracular spirit of the underworld after his death",Amphiaraus,Amphiaraus
+174,Angelos,Ἄγγελος,god,chthonic, daughter of zeus and hera who became an underworld goddess,Angelos_(mythology),Angelos
+175,Askalaphos,Ἀσκάλαφος,god,chthonic, son of acheron and orphne who tended the underworld orchards before being transformed into a screech owl by demeter,Ascalaphus_(son_of_Acheron),Askalaphos
+176,Charon,Χάρων,god,chthonic,ferryman of hades,Charon,Charon
+177,Erebos,Ἔρεβος,god,chthonic," primeval god of darkness, his mists encircled the underworld and filled the hollows of the earth",Erebus,Erebos
+178,Alecto,Ἀληκτώ,god,chthonic,goddesses of retribution; the unceasing one (furies; ἐρινύες),Alecto,Alecto
+179,Tisiphone,Τισιφόνη,god,chthonic,goddesses of retribution; the avenger of murder (furies; ἐρινύες),Tisiphone_(mythology),Tisiphone
+180,Megaera,Μέγαιρα,god,chthonic,goddesses of retribution; the jealous one (furies; ἐρινύες),Megaera,Megaera
+181,Hecate,Ἑκάτη,god,chthonic,"goddess of magic, witchcraft, the night, moon, ghosts, and necromancy",Hecate,Hecate
+182,Aiakos,Αἰακός,god,chthonic,"former mortal king of aegina, guardian of the keys of hades and judge of the men of europe",Aeacus,Aiakos
+183,Minos,Μίνως,god,chthonic,former mortal king of crete and judge of the final vote,Minos,Minos
+184,Rhadamanthys,Ῥαδάμανθυς,god,chthonic,former mortal lawmaker and judge of the men of asia,Rhadamanthus,Rhadamanthys
+185,Keuthonymos,Κευθόνυμος,god,chthonic, underworld spirit and father of menoetes,Ceuthonymus,Keuthonymos
+186,Gorgyra,Γοργύρα,god,nymph, torch-bearing underworld nymph (lampades; λαμπάδες),nan,Gorgyra
+187,Orphne,Ορφνη,god,nymph,"lampad nymph of hades, mother of askalaphos (lampades; λαμπάδες)",Orphne,Orphne
+188,Macaria,Μακαρία,god,chthonic,goddess of blessed death and daughter of Hades,Macaria,Macaria
+189,Melinoe,Μελινόη,god,chthonic,daughter of persephone and zeus who presided over the propitiations offered to the ghosts of the dead,Melino%C3%AB,Melinoe
+190,Menoetes,Μενοίτης,god,chthonic, underworld spirit who herded the cattle of hades,Menoetius,Menoetes
+191,Zagreus,Ζαγρεύς,god,chthonic,"underworld god, possibly the son of Hades and Persephone or Zeus and Persephone",Zagreus,Zagreus
+192,Aegaeon,Αιγαίων,god,sea,god of violent sea storms and ally of the titans,Aegaeon_(mythology),Aegaeon
+193,Amphitrite,Αμφιτρίτη,god,sea,sea goddess and consort of poseidon,Amphitrite,Amphitrite
+194,Benthesikyme,Βενθεσικύμη,god,sea,"daughter of poseidon, who resided in ethiopia",Benthesikyme,Benthesikyme
+195,Brizo,Βριζώ,god,sea,"patron goddess of sailors, who sent prophetic dreams",Brizo,Brizo
+196,Ceto,Κῆτώ,god,sea,goddess of the dangers of the ocean and of sea monsters,Ceto,Ceto
+197,Cymopoleia,Κυμοπόλεια,god,sea, daughter of poseidon married to the giant briareus,Kymopoleia,Cymopoleia
+198,Eidothea,Ειδοθέα,god,nymph,prophetic sea nymph and daughter of proteus,Eidothea_(Greek_myth),Eidothea
+199,Glaucus,Γλαῦκος,god,sea, fishermans sea god and oracle,Glaucus,Glaucus
+200,Leucothea,Λευκοθέα,god,sea, sea goddess who aided sailors in distress,Leucothea,Leucothea
+201,Arethusa,Αρετούσα,god,nymph,sea nymph and  daughter of nereus who was transformed into a fountain,Arethusa_(mythology),Arethusa
+202,Dynamene,Δυναμένη,god,nymph,sea nymph associated with the might and power of great ocean swells,Dynamene,Dynamene
+203,Galene,Γαλήνη,god,nymph,sea nymph and goddess of calm seas,Galene_(mythology),Galene
+204,Psamathe,Πσαμάθη,god,nymph,sea nymph and goddess of sand beaches,Psamathe_(Nereid),Psamathe
+205,Thetis,Θέτις,god,nymph,sea nymph and leader of the nereids who presided over the spawning of marine life in the sea,Thetis,Thetis
+206,Nereus,Νηρέας,god,nymph,"sea nymph and  old man of the sea, and the god of the seas rich bounty of fish",Nereus,Nereus
+207,Nerites,Νερίτης,god,sea, sea spirit who was transformed into a shell-fish by aphrodite,Nerites_(mythology),Nerites
+208,Idyia,Ίδυια,god,nymph,"sea nymph and wife of the colchian king aeetes, mother of medea",Idyia,Idyia
+209,Palaemon,Παλαίμων,god,sea, young sea god who aided sailors in distress,Palaemon_(Greek_mythology),Palaemon
+210,Phorcys,Φόρκυς,god,sea,god of the hidden dangers of the deep,Phorcys,Phorcys
+211,Proteus,Πρωτεύς,god,sea," shape-shifting, prophetic old sea god, and the herdsman of poseidons seals",Proteus,Proteus
+212,Sangarius,Σαγγάριος,god,sea, river-god,Sangarius_(mythology),Sangarius
+213,Actaeus,Ακταίος,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),Actaeus_(mythology),Actaeus
+214,Argyron,Αργυρών,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),nan,Argyron
+215,Althaemenes,Αταβύριος,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),Althaemenes,Althaemenes
+216,Chalcon,Χαλκών,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),Chalcon,Chalcon
+217,Chrysus,Χρυσών,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),Chrysus,Chrysus
+218,Damon,Δαμων,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),nan,Damon
+219,Dexithea,Δεξιθέα,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),Dexithea_(mythology),Dexithea
+220,Lycus,Λύκος,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),Lycus_(mythology),Lycus
+221,Lysagora,Λυσαγόρα,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),nan,Lysagora
+222,Makelo,Μακελώ,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),Macelo_(mythology),Makelo
+223,Megalesius,Μεγαλήσιος,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),nan,Megalesius
+224,Myles,Μύλας,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),Myles,Myles
+225,Nikon,Νίκων,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),nan,Nikon
+226,Ormenos,Ορμενος,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),Ormenus,Ormenos
+227,Simon,Σίμων,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),nan,Simon
+228,Skelmis,Σκελμις,god,sea,sea spirit native to the island of rhodes (telchines; τελχινες),nan,Skelmis
+229,Thaumas,Θαῦμας,god,sea,god of the wonders of the sea,Thaumas,Thaumas
+230,Thoosa,Θόοσα,god,sea,goddess of swift currents,Thoosa,Thoosa
+231,Triteia,Τριτεια,god,sea,daughter of triton and companion of ares,Triteia,Triteia
+232,Triton,Τρίτων,god,sea,fish-tailed son and herald of poseidon,Triton_(mythology),Triton
+233,Aeolus,Αίολος,god,sky,god of the winds,Aeolus,Aeolus
+234,Alectrona,Αλεκτρονα,god,sky,solar goddess of the morning or waking up,Electryone,Alectrona
+235,Aparctias,Απαρκτίας,god,sky,"another name for the north wind (anemoi, άνεμοι)",nan,Aparctias
+236,Apheliotes,Αφηλιώτης,god,sky,"god of the east wind (anemoi, άνεμοι)",nan,Apheliotes
+237,Argestes,Αργέστης,god,sky,"another name for the west or northwest wind (anemoi, άνεμοι)",nan,Argestes
+238,Boreas,Βορέας,god,sky,"god of the north wind and of winter (anemoi, άνεμοι)",Anemoi#Boreas,Boreas
+239,Caicias,Καικίας,god,sky,"god of the northeast wind (anemoi, άνεμοι)",nan,Caicias
+240,Circios,Κίρκιος,god,sky,"god of the north-northwest wind (anemoi, άνεμοι)",Circe,Circios
+241,Euronotus,Ευρονότος,god,sky,"god of the southeast wind (anemoi, άνεμοι)",nan,Euronotus
+242,Eurus,Εύρος,god,sky,"god of the unlucky east or southeast wind (anemoi, άνεμοι)",nan,Eurus
+243,Lips,Λίψ,god,sky,"god of the southwest wind (anemoi, άνεμοι)",nan,Lips
+244,Notus,Νότος,god,sky,"god of the south wind (anemoi, άνεμοι)",nan,Notus
+245,Skeiron,Σκείρων,god,sky,"god of the northwest wind (anemoi, άνεμοι)",Sciron,Skeiron
+246,Zephyrus,Ζέφυρος,god,sky,"god of the west wind (anemoi, άνεμοι)",Anemoi#Zephyrus_(Favonius),Zephyrus
+247,Arke,Άρκη,god,sky,messenger of the titans and twin sister of iris,Arke,Arke
+248,Stilbon,Στιλβών,god,sky,"god of hermaon, the planet mercury",Stilbon_(mythology),Stilbon
+249,Eosphorus,Ηωσφόρος,god,sky,god of venus the morning star,Phosphorus_(morning_star),Eosphorus
+250,Hesperus,Ἓσπερος,god,sky,god of venus the evening star,Hesperus,Hesperus
+251,Pyroeis,Πυρόεις,god,sky,"god of areios, the planet mars",Pyroeis,Pyroeis
+252,Phaethon,Φαέθων,god,sky,"god of dios, the planet jupiter",Phaethon,Phaethon
+253,Phaenon,Φαίνων,god,sky,"god of kronion, the planet saturn",Phaenon,Phaenon
+254,Aura,Αὖρα,god,sky,"goddess of the breeze and the fresh, cool air of early morning",Aura_(mythology),Aura
+255,Chione,Χιόνη,god,sky,goddess of snow and daughter of boreas,Chione_(Greek_myth),Chione
+256,Ersa,Ἕρση,god,sky,goddess of the morning dew,Ersa,Ersa
+257,The Hesperides,´Εσπερίδες,god,nymph,nymphs of the evening and sunset,Hesperides,The Hesperides
+258,Iris,Ίρις,god,sky,goddess of the rainbow and divine messenger,Iris_(mythology),Iris
+259,Nephele,Νεφέλη,god,nymph,cloud nymph,Nephele,Nephele
+260,Pandia,Πανδία,god,sky,"personification of the moon, daughter of selene and zeus",Pandia,Pandia
+261,Alcyone,Αλκυόνη,god,sky,goddess of the star cluster pleiades and were associated with rain (pleiades; πλειάδες),Alcyone_(mythology),Alcyone
+262,Sterope,Στερόπη,god,sky,goddess of the star cluster pleiades and were associated with rain (pleiades; πλειάδες),Sterope,Sterope
+263,Celaeno,Κελαινώ,god,sky,goddess of the star cluster pleiades and were associated with rain (pleiades; πλειάδες),Celaeno,Celaeno
+264,Electra,Ηλέκτρα,god,sky,goddess of the star cluster pleiades and were associated with rain (pleiades; πλειάδες),Electra,Electra
+265,Maia,Μαία,god,sky,goddess of the star cluster pleiades and were associated with rain (pleiades; πλειάδες),Maia,Maia
+266,Merope,Μερώπη,god,sky,goddess of the star cluster pleiades and were associated with rain (pleiades; πλειάδες),Merope_(Greek_myth),Merope
+267,Taygete,Ταϋγέτη,god,sky,goddess of the star cluster pleiades and were associated with rain (pleiades; πλειάδες),Taygete,Taygete
+268,Sabazios,Σαβάζιος,god,sky,goddess of the star cluster pleiades and were associated with rain (pleiades; πλειάδες),Sabazios,Sabazios
+269,Aetna,Αἴτνη,god,rustic,goddess of the volcanic mount etna in sicily,Aetna_(nymph),Aetna
+270,Amphictyonis,Αμφικτυονίς,god,rustic,"goddess of wine and friendship between nations, a local form of demeter",Amphictyonis,Amphictyonis
+271,Anthousai,Ανθούσαι,god,nymph,flower nymphs,Anthousai,Anthousai
+272,Aristaeus,Ἀρισταῖος,god,rustic,"god of bee-keeping, cheese-making, herding, olive-growing, and hunting",Aristaeus,Aristaeus
+273,Attis,Άττις,god,rustic,vegetation god and consort of cybele,Attis,Attis
+274,Britomartis,Βριτόμαρτις,god,rustic,"cretan goddess of hunting and nets used for fishing, fowling and the hunting of small game",Britomartis,Britomartis
+275,Alkon,Αλκων,god,rustic,god presiding over the mysteries of the islands of lemnos and samothrace (cabeiri; κάβειροι),Alcon_(mythology),Alkon
+276,Eurymedon,Ευρυμεδών,god,rustic,god presiding over the mysteries of the islands of lemnos and samothrace (cabeiri; κάβειροι),Eurymedon_(mythology),Eurymedon
+277,Onnes,Όννης,god,rustic,god presiding over the mysteries of the islands of lemnos and samothrace (cabeiri; κάβειροι),nan,Onnes
+278,Tonnes,Τόννης,god,rustic,god presiding over the mysteries of the islands of lemnos and samothrace (cabeiri; κάβειροι),nan,Tonnes
+279,Chloris,Χλωρίς,god,nymph,minor flower nymph and wife of zephyrus,Chloris_(nymph),Chloris
+280,Comus,Κόμος,god,rustic,"god of revelry, merrymaking, and festivity",Comus,Comus
+281,Corymbus,Κόρυμβος,god,rustic,god of the fruit of the ivy,nan,Corymbus
+282,Cybele,Κυβέλη,god,rustic, phrygian mountain goddess,Cybele,Cybele
+283,Acmon,Ακμών,god,rustic,spirit of fingers of the hand (dactyls; δάκτυλοι),Acmon,Acmon
+284,Damnameneus,Δαμναμενεύς,god,rustic,spirit of fingers of the hand (dactyls; δάκτυλοι),nan,Damnameneus
+285,Delas,Δήλας,god,rustic,spirit of fingers of the hand (dactyls; δάκτυλοι),nan,Delas
+286,Epimedes,Επιμήδης,god,rustic,spirit of fingers of the hand (dactyls; δάκτυλοι),Epimenides,Epimedes
+287,Heracles,Ἡρακλῆς,god,rustic,spirit of fingers of the hand (dactyls; δάκτυλοι),Heracles,Heracles
+288,Iasios,Ιάσιος,god,rustic,spirit of fingers of the hand (dactyls; δάκτυλοι),Iasion,Iasios
+289,Kelmis,Κελμις,god,rustic,spirit of fingers of the hand (dactyls; δάκτυλοι),nan,Kelmis
+290,Skythes,Σκύθης,god,rustic,spirit of fingers of the hand (dactyls; δάκτυλοι),nan,Skythes
+291,Titias,Τιτίας,god,rustic,spirit of fingers of the hand (dactyls; δάκτυλοι),Titias,Titias
+292,Dryades,Δρυάδες,god,nymph,tree and forest nymphs,Dryad,Dryades
+293,Epimeliades,Επιμελίδες,god,nymph,nymphs of highland pastures and protectors of sheep flocks,Epimeliad,Epimeliades
+294,Hamadryades,Αμαδρυάδες,god,rustic,oak tree dryades,Hamadryad,Hamadryades
+295,Hecaterus,Ηεκατερος,god,rustic,minor god of the hekateris — a rustic dance of quickly moving hands — and perhaps of the skill of hands in general,Hecaterus,Hecaterus
+296,Pyrrhichos,Πυρῥιχος,god,rustic,god of the rustic dance,Pyrrhichos,Pyrrhichos
+297,Maenades,Μαινάδες,god,nymph,"crazed nymphs in the retinue of dionysus, nymph of drunkenness",Maenad,Maenades
+298,Methe,Μέθη,god,nymph,nymph of drunkenness,Methe,Methe
+299,Meliae,Μελίαι,god,nymph,nymphs of honey and the ash tree,Meliae,Meliae
+300,Daphne,Δάφνη,god,nymph,fresh water nymph (naiades; ναιάδες),Daphne,Daphne
+301,Metope,Μετώπη,god,nymph,fresh water nymph (naiades; ναιάδες),Metope_(mythology),Metope
+302,Minthe,Μίνθη,god,nymph,fresh water nymph (naiades; ναιάδες),Minthe,Minthe
+303,Hekaerge,Εκαέργη,god,nymph,nymph representing the aspect of archery distancing (nymphai hyperboreioi; νύμφαι υπερβόρειοι),nan,Hekaerge
+304,Loxo,Λοξώ,god,nymph,nymph representing the aspect of archery trajectory (nymphai hyperboreioi; νύμφαι υπερβόρειοι),nan,Loxo
+305,Oupis,Ουπις,god,nymph,nymph representing the aspect of archery aim (nymphai hyperboreioi; νύμφαι υπερβόρειοι),Opis_(mythology),Oupis
+306,Adrasteia,Αδράστεια,god,nymph,nymph  nursemaid of the infant zeus,Adrasteia,Adrasteia
+307,Echo,Ηχώ,god,nymph, nymph cursed never to speak except to repeat the words of others,Echo_(mythology),Echo
+308,The Palici,Παλικοί,god,rustic, pair of rustic gods who presided over the geysers and thermal springs in sicily,Palici,The Palici
+309,Pan,Πάν,god,rustic,"god of shepherds, pastures, and fertility",Pan_(god),Pan
+310,Achelous,Αχέλους,god,rustic,river god (potamoi; ποταμοί),Achelous,Achelous
+311,Acis,Άκις,god,rustic,river god (potamoi; ποταμοί),nan,Acis
+312,Alpheus,Αλφειός,god,rustic,river god (potamoi; ποταμοί),Alpheus_(deity),Alpheus
+313,Asopus,Ασωπός,god,rustic,river god (potamoi; ποταμοί),Asopus,Asopus
+314,Cladeus,Κλάδεος,god,rustic,river god (potamoi; ποταμοί),nan,Cladeus
+315,Eurotas,Ευρώτας,god,rustic,river god (potamoi; ποταμοί),Eurotas,Eurotas
+316,Nilus,Νείλος,god,rustic,river god (potamoi; ποταμοί),Nilus_(mythology),Nilus
+317,Peneus,Πηνειός,god,rustic,river god (potamoi; ποταμοί),Peneus,Peneus
+318,Scamander,Σκάμανδρος,god,rustic,river god (potamoi; ποταμοί),Scamander,Scamander
+319,Priapus,Πρίαπος,god,rustic,god of garden fertility,Priapus,Priapus
+320,Silenus,Σειληνός,god,rustic, old rustic god of the dance of the wine-press,Silenus,Silenus
+321,Telete,Τελέτη,god,rustic,goddess of initiation into the bacchic orgies,Telete,Telete
+322,Adonis,Άδωνις,god,agriculture, life-death-rebirth deity,Adonis,Adonis
+323,Aphaea,Αφαία,god,agriculture,minor goddess of agriculture and fertility,Aphaea,Aphaea
+324,Cyamites,Κυαμίτης,god,agriculture,demi-god of the bean,Cyamites,Cyamites
+325,Despoina,Δέσποινη,god,agriculture,"daughter of poseidon and demeter, goddess of mysteries in arcadia",Despoina,Despoina
+326,Eunostus,Εύνοστος,god,agriculture,goddess of the flour mill,Eunostus,Eunostus
+327,Persephone,Περσεφόνη,god,agriculture,"queen of the underworld, wife of hades and goddess of spring growth",Persephone,Persephone
+328,Philomelus,Φιλόμελος,god,agriculture,agricultural demi-god inventor of the wagon and the plough,Philomelus,Philomelus
+329,Plutus,Πλοῦτος,god,agriculture,"god of wealth, including agricultural wealth, son of demeter",Plutus,Plutus
+330,Triptolemus,Τριπτόλεμος,god,agriculture,"god of farming and agriculture, he brought agriculture to greece",Triptolemus,Triptolemus
+331,Asclepius,Ασκληπιός,god,health,god of medicine,Asclepius,Asclepius
+332,Aceso,Ἀκεσώ,god,health,goddess of the healing of wounds and the curing of illnesses,Aceso,Aceso
+333,Aegle,Αἴγλη,god,health, goddess of radiant good health,Aegle_(mythology),Aegle
+334,Epione,Ἠπιόνη,god,health,goddess of the soothing of pain,Epione,Epione
+335,Hygieia,Ὑγεία,god,health,goddess of cleanliness and good health,Hygieia,Hygieia
+336,Iaso,Ἰασώ,god,health,"goddess of cures, remedies, and modes of healing",Iaso,Iaso
+337,Paean,Παιάν,god,health,physician of the gods,Paean_(god),Paean
+338,Panacea,Πανάκεια,god,health,goddess of healing,Panacea,Panacea
+339,Telesphorus,Τελεσφόρος,god,health,"demi-god of convalescence, who brought to fulfillment recuperation from illness or injury",Telesphorus_(mythology),Telesphorus
+340,Empusa,Ἔμπουσα,god,sleep,goddess of shape-shifting,Empusa,Empusa
+341,Epiales,Ἐφιάλτης,god,sleep,goddess of nightmares,Epiales,Epiales
+342,Oneiroi,Ὀνείρων,god,sleep,god of dreams,Oneiros,Oneiroi
+343,Morpheus,μορφή,god,sleep,god of dreaming,Morpheus,Morpheus
+344,Acratopotes,Ἀκρατοπότης,god,other,god of unmixed wine,Acratopotes,Acratopotes
+345,Agdistis,Ἄγδιστις,god,other,phrygian hermaphroditic deity,Agdistis,Agdistis
+346,Aphroditus,Ἀφρόδιτος,god,other,cyprian hermaphroditic aphrodite,Aphroditus,Aphroditus
+347,Astraea,Αστραία,god,other,virgin goddess of justice,Astraea,Astraea
+348,Aglaea,Αγλαΐα,god,other,"goddess of beauty, adornment, splendor and glory (charites; χάριτες)",Aglaea,Aglaea
+349,Euphrosyne,Εὐφροσύνη,god,other,"goddess of good cheer, joy, mirth, and merriment (charites; χάριτες)",Euphrosyne,Euphrosyne
+350,Thalia,Θάλεια,god,other,goddess of festive celebrations and rich and luxurious banquets (charites; χάριτες),Thalia_(Muse),Thalia
+351,Hegemone,Ηγεμόνη,god,other,goddess of mastery (charites; χάριτες),Hegemone,Hegemone
+352,Antheia,Άνθεια,god,other,goddess of flowers and flowery wreaths (charites; χάριτες),Antheia,Antheia
+353,Pasithea,Πασιθέα,god,other,goddess of rest and relaxation (charites; χάριτες),Pasithea_(Charites),Pasithea
+354,Cleta,Κλήτα,god,other,goddess of fame and glory (charites; χάριτες),Cleta,Cleta
+355,Phaenna,Φαέννα,god,other,goddess of gratitude (charites; χάριτες),Phaenna,Phaenna
+356,Eudaimonia,Ευδαιμονία,god,other,goddess of happiness (charites; χάριτες),Eudaimonia,Eudaimonia
+357,Euthymia,Ευθυμία,god,other,goddess of good mood (charites; χάριτες),Euphrosyne,Euthymia
+358,Calleis,Καλλείς,god,other,goddess of beauty (charites; χάριτες),Kale_(mythology),Calleis
+359,Paidia,Παιδία,god,other,goddess of amusement (charites; χάριτες),Paideia,Paidia
+360,Pandaisia,Πανδαισία,god,other,goddess of banquets (charites; χάριτες),nan,Pandaisia
+361,Pannychis,Παννυχίς,god,other,goddess of all-night festivities (charites; χάριτες),nan,Pannychis
+362,Ceraon,Κεραων,god,other,"demi-god of the meal, specifically the mixing of wine (charites; χάριτες)",Ceraon,Ceraon
+363,Syntribos,Σύντριβος,god,other,spirit which shatters pottery (daemones ceramici; δαίμονες κεραμικοί),nan,Syntribos
+364,Smaragos,Σμάραγος,god,other,spirit which smashes pottery (daemones ceramici; δαίμονες κεραμικοί),nan,Smaragos
+365,Asbetos,Ασβετος,god,other,spirit which chars pottery (daemones ceramici; δαίμονες κεραμικοί),nan,Asbetos
+366,Sabaktes,Σαβάκτης,god,other,spirit which destroys pottery (daemones ceramici; δαίμονες κεραμικοί),nan,Sabaktes
+367,Omodamos,Ωμόδαμος,god,other,spirit which crudebakes pottery (daemones ceramici; δαίμονες κεραμικοί),nan,Omodamos
+368,Deipneus,Δειπνεύς,god,other,"demi-god of the preparation of meals, specifically the making of bread",Deipneus,Deipneus
+369,Eileithyia,Εἰλείθυια,god,other,goddess of childbirth,Eileithyia,Eileithyia
+370,Enyalius,Ενυάλιος,god,other,minor god of war,Enyalius,Enyalius
+371,Enyo,Ἐνυώ,god,other,goddess of destructive war,Enyo,Enyo
+372,Epidotes,Ἐπιδώτης,god,other, divinity who was worshipped at lacedaemon,Epidotes,Epidotes
+373,Glycon,Γλύκων,god,other, snake god,Glycon,Glycon
+374,Harpocrates,Ἁρποκράτης,god,other,god of silence,Harpocrates,Harpocrates
+375,Hebe,Ήβη,god,other,goddess of youth and cup-bearer to the olympians,Hebe_(mythology),Hebe
+376,Hermaphroditus,Ἑρμάφρόδιτός,god,other,god of hermaphrodites and effeminate men,Hermaphroditus,Hermaphroditus
+377,Eunomia,Ευνομία,god,hours,"spirit of good order, and springtime goddess of green pastures",Eunomia,Eunomia
+378,Eirene,Ειρήνη,god,hours,spirit of peace and goddess of the springtime,Eirene_(goddess),Eirene
+379,Thallo,Θαλλώ,god,hours,"goddess of spring buds and shoots, identified with eirene",nan,Thallo
+380,Auxo,Αυξώ,god,hours,goddess of spring growth,nan,Auxo
+381,Karpo,Καρπώ,god,hours,goddess of the fruits of the earth,Karpos,Karpo
+382,Pherousa,Φέρουσα,god,hours,goddess of substance and farm estates,Pherusa,Pherousa
+383,Euporie,Ευπορίη,god,hours,goddess of abundance,Euporia,Euporie
+384,Orthosie,Ορθοσίη,god,hours,goddess of prosperity,Orthosie,Orthosie
+385,Auge,Αυγή,god,hours,first light of the morning,Auge,Auge
+386,Musica,Μουσική,god,hours, morning hour of music and study,nan,Musica
+387,Gymnastica,Γυμνασία,god,hours,morning hour of gymnastics/exercise,nan,Gymnastica
+388,Sponde,Σπονδή,god,hours,libations poured after lunch,nan,Sponde
+389,Acte,Ακτή,god,hours,second of the afternoon work hours,Actaeus,Acte
+390,Hesperis,Έσπερίς,god,hours,evening,Hesperis_(mythology),Hesperis
+391,Dysis,Δύσις,god,hours,sunset,nan,Dysis
+392,Arktos,Άρκτος,god,hours,"night sky, constellation",Arktos,Arktos
+393,Eiar,Είαρ,god,hours,spring,nan,Eiar
+394,Theros,Θέρος,god,hours,summer,Thero_(mythology),Theros
+395,Pthinoporon,Φθινόπωρον,god,hours,autumn,nan,Pthinoporon
+396,Cheimon,Χειμών,god,hours,winter,nan,Cheimon
+397,Hymenaios,Ὑμέναιος,god,hours,god of marriage and marriage feasts,Hymen_(god),Hymenaios
+398,Ichnaea,Ιχναία,god,other,goddess of tracking,Ichnaea,Ichnaea
+399,Iynx,Ιύνξ,god,other,goddess of the love charm,Iynx,Iynx
+400,Matton,Μάττων,god,other,"demi-god of the meal, specifically the kneading of dough",Matton_(mythology),Matton
+401,Aoide,Ἀοιδή,god,other,muse of song,Aoede_(mythology),Aoide
+402,Arche,Αρχή,god,other,muse of origins,Arche_(mythology),Arche
+403,Melete,Μελέτη,god,other,muse of meditation and practice,Melete,Melete
+404,Mneme,Μνήμη,god,other,muse of memory,Mneme,Mneme
+405,Thelxinoe,Θελξινόη,god,other,muse charmer of minds,Thelxino%C3%AB,Thelxinoe
+406,Calliope,Καλλιόπη,god,other,muse of epic poetry,Calliope,Calliope
+407,Clio,Κλειώ,god,other,muse of history,Clio,Clio
+408,Euterpe,Ευτέρπη,god,other,muse of musical poetry,Euterpe,Euterpe
+409,Erato,Ερατώ,god,other,muse of lyric poetry,Erato,Erato
+410,Melpomene,Μελπομένη,god,other,muse of tragedy,Melpomene,Melpomene
+411,Polyhymnia ,Πολυμνία,god,other,muse of sacred poetry,Polyhymnia,Polyhymnia 
+412,Terpsichore,Τερψιχόρη,god,other,muse of dance and choral poetry,Terpsichore,Terpsichore
+413,Urania,Ουρανία,god,other,muse of astronomy,Urania,Urania
+414,Cephisso,Κεφισσώ,god,muse,daughter of Apollo,Cephisso,Cephisso
+415,Apollonis,Απολλωνίς,god,muse,daughter of Apollo,Apollonis,Apollonis
+416,Borysthenis,Βορυσθενίς,god,muse,daughter of Apollo,Borysthenis,Borysthenis
+417,Hypate,Υπάτη,god,muse, upper chord of the lyre,Hypate,Hypate
+418,Mese,Μέση,god,muse, middle chord of the lyre,Mese_(mythology),Mese
+419,Nete,Νήτη,god,muse, lowest chord of the lyre,Nete_(mythology),Nete
+420,Polymatheia,Πολυμάθεια,god,muse,muse of knowledge,Polymatheia,Polymatheia
+421,Palaestra,Παλαίστρα,god,other,goddess of wrestling,Palaestra_(mythology),Palaestra
+422,Rhapso,Ραψώ,god,nymph,minor goddess or nymph whose name apparently refers to sewing,Rhapso,Rhapso
+423,Alexiares,Αλεξιαρης,god,other,son of heracles presiding over the defence of fortified towns and citadels,Alexiares_and_Anicetus,Alexiares
+424,Anicetus,Ανικητος,god,other,son of heracles presiding over the defence of fortified towns and citadels,Alexiares_and_Anicetus,Anicetus
+425,Auxesia,Αυξησία,god,other,local fertility goddess,nan,Auxesia
+426,Damia,Δαμία,god,other,local fertility goddess,nan,Damia
