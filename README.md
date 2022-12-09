@@ -12,7 +12,7 @@ The current repository contains supporting files for the Mythological Networks P
 
 4. Google Trends data (one-week and all-time).
 
-5. The reference .csv files used for constructing the Wikipedia network.
+5. The reference files used for constructing the Wikipedia network.
 
 6. Images used as masks for word clouds.
 
